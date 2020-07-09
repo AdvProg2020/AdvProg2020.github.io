@@ -38,24 +38,29 @@
 					    <span class="desc d-block"></span>
 				    </h1>
 					<div class="text-center mb-5">
-						<a href="#section-pricing" class="btn btn-primary btn-lg scrollto">Start Learning Now</a>
+						<a href="#section-content" class="btn btn-primary btn-lg scrollto">Our Suggested Timeline</a>
 					</div>
 					
 					<div class="hero-summary">
 						<div class="row">
 							<div class="item col-4">
-								<div class="summary-desc mb-1"><i class="icon fas fa-video mr-2"></i>Content</div>
-								<h4 class="summary-heading">80+ <span class="desc">Videos</span></h4>
+								<div class="summary-desc mb-1"><i class="icon fas fa-video mr-2"></i>videos</div>
+								<h4 class="summary-heading">{{ site.course.videos }} <span class="desc">Videos</span></h4>
 								
 							</div><!--//col-->
 							<div class="item col-4">
 								<div class="summary-desc mb-1"><i class="icon fas fa-clock mr-2"></i>Duration</div>
-								<h4 class="summary-heading">72 <span class="desc">Hours</span></h4>
+								<h4 class="summary-heading">{{ site.course.duration }} <span class="desc">Hours</span></h4>
 								
 							</div><!--//col-->
 							<div class="item col-4">
-								<div class="summary-desc mb-1"><i class="icon fas fa-user-circle mr-2"></i>Access</div>
-								<h4 class="summary-heading">Lifetime</h4>
+								<div class="summary-desc mb-1"><i class="icon fas fa-user-circle mr-2"></i>Students</div>
+								<h4 class="summary-heading">{{ site.course.students }}</h4>
+								
+							</div><!--//col-->
+							<div class="item col-4">
+								<div class="summary-desc mb-1"><i class="icon fas fa-users mr-2"></i>TAs</div>
+								<h4 class="summary-heading">{{ site.course.TAs }}</h4>
 								
 							</div><!--//col-->
 						</div><!--//row-->

@@ -5,9 +5,8 @@ university:         Sharif University of Technology
 course:             Advanced Programming course
 
 
-# Social Profiles
-twitter_username:
-github_username:    advprog2020
-facebook_username:
-instagram_username:
-linkedin_username:
+
+course.videos:    80+   
+course.duration:  72
+course.students:  170+
+course.TAs:       45
