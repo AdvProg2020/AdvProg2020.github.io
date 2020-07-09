@@ -1,7 +1,6 @@
 ---
-title: Home
-layout: template
-filename: index.md
+layout: home
+background: '/img/bg-index.jpg'
 --- 
 
 ## Welcome to GitHub Pages
