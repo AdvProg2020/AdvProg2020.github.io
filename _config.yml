@@ -1,19 +1,19 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              SUTAP
+email:              ahsa9978@gmail.com
+description:        Github Page of Sharif University of Technology Advanced Programming course
+author:             Ahmad Salimi, Hamila Mailee
 baseurl:            "/docs"
 url:                "https://advprog2020.github.io/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
+twitter_username:
+github_username:    advprog2020
+facebook_username:
+instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   G-EYD2ZBQXLK # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
