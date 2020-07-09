@@ -6,7 +6,7 @@ course:             Advanced Programming course
 
 
 
-course.videos:    80+   
-course.duration:  72
-course.students:  170+
-course.TAs:       45
+course_videos:    80+   
+course_duration:  72
+course_students:  170+
+course_TAs:       45
