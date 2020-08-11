@@ -1,32 +1,18 @@
 <div id="section-overview" class="section-overview section pt-md-4 pt-lg-5">
     <div class="container py-5">
         <div class="section-col-max mx-auto">
-            <h3 class="section-title mb-4">Why choose Sharif’s AP course?</h3>
+            <h3 class="section-title mb-4">{{ site.data.overview.title }}</h3>
             <p class="mb-4" style="text-align: justify;">
-                First of all, it’s free! So why not? ^__^
-                <br>
-                Also, presented by Sharif University of Technology - the best university in the country (QS
-                2017-present) -
-                this may be the best course you could get your hands on. Designed in a user-friendly manner,
-                the course consists
-                of videos, exercises, sample questions and even a project to further your knowledge and gain
-                hands-on experience.
-                Our goal is to guide you through this so-called thorn-filled path and make learning easier
-                for you.
-                <br>
-                Final word, Welcome to SUTAP!
-                <br>
-                What will you learn:
+                {{ site.data.overview.content }}
             </p>
             <div class="text-left mb-3">
                 <ul class="column-list list-unstyled mx-auto d-inline-block">
-                    <li><i class="theme-check-icon fas fa-check mr-2"></i>Java Programming Language</li>
-                    <li><i class="theme-check-icon fas fa-check mr-2"></i>Object Oriented Programming</li>
-                    <li><i class="theme-check-icon fas fa-check mr-2"></i>Graphics in Java using JavaFX</li>
-                    <li><i class="theme-check-icon fas fa-check mr-2"></i>Network and Socket Programming
+                    {% for item in site.data.overview.items %}
+                    <li>
+                        <i class="theme-check-icon fas fa-check mr-2"></i>
+                        {{ item }}
                     </li>
-                    <li><i class="theme-check-icon fas fa-check mr-2"></i>Software Design Patterns</li>
-                    <li><i class="theme-check-icon fas fa-check mr-2"></i>Paralellism and Multi-Thread</li>
+                    {% endfor %}
                 </ul>
             </div>
         </div>
