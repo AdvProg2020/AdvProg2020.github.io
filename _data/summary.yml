@@ -1,0 +1,17 @@
+- title:  Videos
+  value:  80+
+  icon:   video
+  desc:   Videos
+
+- title:  Duration
+  value:  72
+  icon:   clock
+  desc:   Hours
+
+- title:  Students
+  value:  170+
+  icon:   user-circle
+
+- title:  TAs
+  value:  45
+  icon:   users

@@ -1,0 +1,32 @@
+- title:    Overview
+  section:  overview
+  navbar: true
+
+- title:    Content
+  section:  content
+  navbar: true
+
+- title:    Requirements
+  section:  requirements
+  navbar: true
+
+- title:    Tutor
+  section:  tutor
+  navbar: true
+
+- title:    Reviews
+  section:  reviews
+  navbar: true
+
+- title:    Pricing
+  section:  pricing
+  navbar: true
+
+- title:    FAQ
+  section:  faq
+  navbar: true
+
+- section: more
+
+- section: contact
+

@@ -1,0 +1,23 @@
+<div class="section-nav-space-holder d-none d-lg-block">
+    <div id="section-nav-wrapper" class="section-nav-wrapper text-center">
+        <div class="container-fluid justify-content-center">
+            <ul id="section-nav" class="section-nav nav list-inline">
+                <li class="nav-item">
+                    <a class="nav-link scrollto active" href="#home">
+                        <img src="sharif1.png" class="sharif">
+                        <span class="name">{{ site.title }}</span>
+                    </a>
+                </li>
+                {% for item in site.data.sections %}
+                    {% if item.navbar %}
+                        <li class="nav-item"><a class="nav-link scrollto" href="#section-{{ item.section }}">{{ item.title }}</a></li>
+                    {% endif %}
+                {% endfor %}
+                {%- comment -%} <li class="nav-item d-none"><a class="nav-link" href="#section-more">More</a></li> {%- endcomment -%}
+            </ul>
+            <!--//page-nav-->
+        </div>
+    </div>
+    <!--//page-nav-wrapper-->
+</div>
+<!--//page-nav-space-holder-->
