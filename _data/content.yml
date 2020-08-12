@@ -1,0 +1,48 @@
+title:  What's Included
+includes:
+  - meta: Lessons
+    data: 20
+
+  - meta: Videos
+    data: 80+
+
+  - meta: Resources
+    data: 40+
+
+  - meta: Hours
+    data: 72
+
+subtitle: Course Content
+
+lessons:
+  - title: "Lesson 0 : Let's get started !"
+    requirements: "Your PC & Internet *___*"
+    description: "Start..."
+    body: lesson_0
+
+  - title: "Lesson 1 : Know the basics"
+    requirements: "Search, Search, Search"
+    description: "These are the essentials, learn them well while doing
+      <b>Exercise 1</b> and please learn how to search."
+    body: lesson_1
+
+  - title: "Lesson 2 : Clean Code"
+    requirements: "Some of your previous codes, get the soap ready"
+    description: "Keeping your code clean is a very
+      important step in becoming a good programmer."
+    body: lesson_2
+
+  - title: "Review 1"
+    requirements: "Exercise 1, Data Structures"
+    description: "Review on some Data structures by Hamed Khanaki"
+    body: review_1
+
+  - title: "Extra Exercise 1"
+    requirements: "Regex (Pattern, Matcher), Stack"
+    description: "A code to validate HTML by Ali Shirmohammadi"
+    body: extra_exercise_1
+
+  - title: "Lesson 3 : Object Oriented"
+    requirements: "Data Structures"
+    description: "Start an Object Oriented program by Hamed Khanaki, <b>Exercise 2</b>"
+    body: lesson_3
