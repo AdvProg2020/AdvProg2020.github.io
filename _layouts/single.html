@@ -21,16 +21,17 @@
     <!-- FontAwesome JS-->
     <script defer src="assets/fontawesome/js/all.min.js"></script>
 
+    <!-- Bootsrtap 4 -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <!-- Theme CSS -->
-    <link id="theme-style" rel="stylesheet" href="assets/css/theme-10.css">
+    <link id="theme-style" rel="stylesheet" href="assets/css/theme.css">
 
-
-    <style>
-        .sharif {
-            margin: -20px 10px -17px 0;
-            height: 30px;
-        }
-    </style>
+    <!-- Javascript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="assets/plugins/back-to-top.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery.scrollto@2.1.2/jquery.scrollTo.min.js"></script>
+    <script src="assets/js/main.js"></script>
 </head>
 
 <body>
@@ -55,13 +56,6 @@
     {% for modal in site.data.modals %}
         {% include modal.html id=modal.id src=modal.src %}
     {% endfor %}
-
-    <!-- Javascript -->
-    <script src="assets/plugins/jquery-3.4.1.min.js"></script>
-    <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-    <script src="assets/plugins/back-to-top.js"></script>
-    <script src="assets/plugins/jquery.scrollTo.min.js"></script>
-    <script src="assets/js/main.js"></script>
 </body>
 
 </html>
