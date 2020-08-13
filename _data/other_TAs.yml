@@ -1,7 +1,7 @@
 - name:     Saber Zafarpour
   roles:
     - Project
-  image:    default.jpg
+  image:    saberzafarpour.jpg
   social:
     - name: github
       link: https://github.com/SaberDoTcodeR
