@@ -1,0 +1,60 @@
+{%- comment -%} <div class="container py-5">
+    <div class="section-col-max mx-auto">
+        <h3 class="section-title mb-4">Who Is This Course For</h3>
+        <p class="mb-4">This course is designed for developers lorem ipsum consectetuer adipiscing elit.
+            Aenean commodo ligula eget dolor. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+        </p>
+
+        <div class="lead-form-wrapper single-col-max mx-auto theme-bg-light rounded p-5">
+            <h4 class="form-heading text-center mb-3">Get Free Course Previews</h4>
+            <div class="form-intro text-center mb-3">Sign up to get instant access to the course
+                previews.
+            </div>
+            <div class="form-wrapper">
+                <form class="lead-form">
+                    <div class="form-group mb-3">
+                        <label for="email" class="sr-only">Email</label>
+                        <input type="email" class="form-control " id="email" placeholder="Your Email">
+                    </div>
+                    <button type="submit" class="btn btn-ghost btn-submit btn-block">Sign Up
+                        Now
+                    </button>
+                </form>
+            </div>
+            <!--//form-wrapper-->
+        </div>
+        <!--//lead-form-wrapper-->
+
+    </div>
+</div>
+<!--//container--> {%- endcomment -%}
+    <div class="container">
+        <div class="container-inner position-relative theme-bg-primary rounded">
+            <div class="section-bg-container"></div>
+    
+<div class="container our-webcoderskull">
+    <div class="row heading heading-icon">
+        <h2>Education Team</h2>
+    </div>
+    <ul class="row px-2">
+        {% for head in site.data.headquarters %}
+            <li class="col px-2">
+                <div class="rounded-lg cnt-block equal-hight" style="height: 340px;">
+                    <figure><img src="assets/images/team/{{ head.image }}" class="img-responsive" alt=""></figure>
+                    <h3 class="align-middle">{{ head.name }}</h3>
+                    <p>{{ head.role }}</p>
+                    {% if head.social %}
+                    <ul class="follow-us clearfix">
+                    {% for social in head.social %}    
+                        <li><a href="{{ social.link }}"><i class="fab fa-{{ social.name }}" aria-hidden="true"></i></a></li>
+                    {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+</div>
+</div>
+</div>
