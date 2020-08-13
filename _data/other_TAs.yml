@@ -1,55 +1,46 @@
-- name:     Mohammad Haghighat
-  role:     Head TA
+- name:     Saber Zafarpour
+  roles:
+    - Project
   image:    default.jpg
   social:
     - name: github
-      link: https://github.com/mhaghighat20
+      link: https://github.com/SaberDoTcodeR
 
-- name:     Hamed Khanaki
-  role:     Head of Workshops
+- name:     Hadi Esnaashari
+  roles:
+    - Public Relations
+    - Project
   image:    default.jpg
 
-- name:     Ahmad Salimi
-  role:     Head of Project
-  image:    ahmadsalimi.jpg
-  social:
-    - name: github
-      link: https://github.com/ahmadsalimi
-    - name: linkedin
-      link: https://linkedin.com/in/ahmadsalimi
-    - name: twitter
-      link: https://twitter.com/ChichekaMan
-
-- name:     Mohammad Hossein Gheisarieh
-  role:     Head of Assignments
+- name:     Sepehr Ilami
+  roles:
+    - Public Relations
   image:    default.jpg
 
-- name:     Amirhossein Abbasi
-  role:     Head of Public Relations
+- name:     Hamila Mailee
+  roles:
+    - Project
+    - Public Relations
   image:    default.jpg
 
-- name:     Mohammad Haghighat
-  role:     Head TA
-  image:    default.jpg
-  social:
-    - name: github
-      link: https://github.com/mhaghighat20
-
-- name:     Hamed Khanaki
-  role:     Head of Workshops
+- name:     Mohammad Mohammadi
+  roles:
+    - Assignments
+    - Project
   image:    default.jpg
 
-- name:     Ahmad Salimi
-  role:     Head of Project
-  image:    ahmadsalimi.jpg
-  social:
-    - name: github
-      link: https://github.com/ahmadsalimi
-    - name: linkedin
-      link: https://linkedin.com/in/ahmadsalimi
-    - name: twitter
-      link: https://twitter.com/ChichekaMan
+- name:     Seyyed Mahdi Faghih
+  roles:
+    - Project
+  image:    default.jpg
 
-- name:     Mohammad Hossein Gheisarieh
-  role:     Head of Assignments
+- name:     Ali Shirmohammadi
+  roles:
+    - Workshop
+  image:    default.jpg
+
+- name:     Mohammad Mahdi Jarrahi
+  roles:
+    - Assignments
+    - Project
   image:    default.jpg

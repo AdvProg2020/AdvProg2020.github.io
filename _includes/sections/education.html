@@ -29,18 +29,20 @@
             <ul class="row px-2">
                 <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
                     <div class="carousel-inner py-2 w-100" role="listbox">
-                        {% for head in site.data.other_TAs %}
+                        {% for TA in site.data.other_TAs %}
                         <div class="carousel-item{%if forloop.index == 1 %} active{% endif %}">
                             <li class="slider-item col-3 w-100 px-2">
                                 <div class="rounded-lg cnt-block equal-hight" style="height: 340px;">
-                                    <figure><img src="assets/images/team/{{ head.image }}" class="img-responsive"
+                                    <figure><img src="assets/images/team/{{ TA.image }}" class="img-responsive"
                                             alt="">
                                     </figure>
-                                    <h3 class="align-middle">{{ head.name }}</h3>
-                                    <p>{{ head.role }}</p>
-                                    {% if head.social %}
+                                    <h3 class="align-middle">{{ TA.name }}</h3>
+                                    {% for role in TA.roles %}
+                                    <span class="badge badge-pill badge-primary">{{ role }}</span>
+                                    {% endfor %}
+                                    {% if TA.social %}
                                     <ul class="follow-us clearfix">
-                                        {% for social in head.social %}
+                                        {% for social in TA.social %}
                                         <li><a href="{{ social.link }}"><i class="fab fa-{{ social.name }}"
                                                     aria-hidden="true"></i></a></li>
                                         {% endfor %}
