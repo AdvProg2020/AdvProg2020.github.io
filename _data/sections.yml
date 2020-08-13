@@ -1,30 +1,30 @@
 - title:    Overview
   section:  overview
-  navbar: true
+  navbar:   true
 
 - title:    Content
   section:  content
-  navbar: true
+  navbar:   true
 
-- title:    Requirements
-  section:  requirements
-  navbar: true
+- title:    Education Team
+  section:  education
+  navbar:   true
 
 - title:    Tutor
   section:  tutor
-  navbar: true
+  navbar:   true
 
 - title:    Reviews
   section:  reviews
-  navbar: true
+  navbar:   true
 
 - title:    Pricing
   section:  pricing
-  navbar: true
+  navbar:   true
 
 - title:    FAQ
   section:  faq
-  navbar: true
+  navbar:   true
 
 - section: more
 

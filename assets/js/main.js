@@ -1,5 +1,29 @@
 $(document).ready(function () {
 
+    $('#recipeCarousel').carousel({
+        interval: 10000
+    })
+
+    $('.carousel .carousel-item').each((_, element) => {
+        var minPerSlide = 3;
+        var next = $(element).next();
+        if (!next.length) {
+            next = $(element).siblings(':first');
+        }
+        next.children(':first-child')
+            .clone()
+            .appendTo($(element));
+
+        for (var i = 0; i < minPerSlide; i++) {
+            next = next.next();
+            if (!next.length) {
+                next = $(element).siblings(':first');
+            }
+
+            next.children(':first-child').clone().appendTo($(element));
+        }
+    });
+
 
     /* ======= Scrollspy ======= */
     $('body').scrollspy({ target: '#section-nav', offset: 100 });
