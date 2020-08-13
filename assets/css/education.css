@@ -1,7 +1,6 @@
 .row.heading h2 {
     color: #fff;
     font-size: 35px;
-    line-height: 95px;
     font-weight: 400;
     text-align: center;
     text-transform: uppercase;
@@ -56,7 +55,6 @@ ul{
    background:rgba(255, 255, 255, 0.9); 
    padding:30px 10px; 
    text-align:center; 
-   margin: 0 0 28px;
    transition: all .2s ease-in-out;
 }
 .our-webcoderskull .cnt-block figure{
@@ -128,7 +126,7 @@ color:#025a8e;
 
 /* carousel */
 
-@media (max-width: 768px) {
+@media (max-width: 499px) {
     .carousel-inner .carousel-item > li {
         display: none;
     }
@@ -144,7 +142,7 @@ color:#025a8e;
 }
 
 /* display 3 */
-@media (min-width: 768px) {
+@media (min-width: 1000px) {
     
     .carousel-inner .carousel-item-right.active,
     .carousel-inner .carousel-item-next {
@@ -157,8 +155,9 @@ color:#025a8e;
     }
 }
 
+
 /* display 1 */
-@media (max-width: 767px) {
+@media (max-width: 499px) {
     
     .carousel-inner .carousel-item-right.active,
     .carousel-inner .carousel-item-next {
@@ -168,6 +167,20 @@ color:#025a8e;
     .carousel-inner .carousel-item-left.active, 
     .carousel-inner .carousel-item-prev {
       transform: translateX(-100%);
+    }
+}
+
+/* display 1 */
+@media (min-width: 500px) and (max-width: 999px) {
+    
+    .carousel-inner .carousel-item-right.active,
+    .carousel-inner .carousel-item-next {
+      transform: translateX(50%);
+    }
+    
+    .carousel-inner .carousel-item-left.active, 
+    .carousel-inner .carousel-item-prev {
+      transform: translateX(-50%);
     }
 }
 
