@@ -46,3 +46,13 @@ lessons:
     requirements: "Data Structures"
     description: "Start an Object Oriented program by Hamed Khanaki, <b>Exercise 2</b>"
     body: lesson_3
+
+  - title: "Review 2"
+    requirements: "Object Oriented Programming"
+    description: "Review on Object Oriented programming, Know a bit about Inheritance by Hamed Khanaki"
+    body: review_2
+
+  - title: "Lesson 4 : Inheritence, Polymorphism and Abstract"
+    requirements: "*****"
+    description: "Data Structure, Class, Object Oriented Programming by Hamed Khanaki"
+    body: lesson_4
