@@ -53,8 +53,8 @@ lessons:
     body: review_2
 
   - title: "Lesson 4 : Inheritance, Polymorphism and Abstract"
-    requirements: "*****"
-    description: "Data Structure, Class, Object Oriented Programming by Hamed Khanaki"
+    requirements: "Object Oriented Programming, Class"
+    description: "Inheritance, Polymorphism and Abstract by Hamed Khanaki"
     body: lesson_4
 
   - title: "Lesson 5 : Debugging with Intellij Debugger"
@@ -66,3 +66,13 @@ lessons:
     requirements: "Intellij, Github Account"
     description: "Github introduction by Mohammadhossein Bahmani"
     body: lesson_6
+
+  - title: "Lesson 7 : MVC design and creating menu for project"
+    requirements: "Object Oriented Programming"
+    description: "A tutorial on MVC by Hamed Khanaki"
+    body: lesson_7
+
+  - title: "PROJECT : Phase 0"
+    requirements: "MVC, UML design"
+    description: "Use what you have learned to create an online market, using UML, Trello and Github"
+    body: project_0
