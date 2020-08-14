@@ -56,3 +56,13 @@ lessons:
     requirements: "*****"
     description: "Data Structure, Class, Object Oriented Programming by Hamed Khanaki"
     body: lesson_4
+
+  - title: "Lesson 5 : Debugging with Intellij Debugger"
+    requirements: "Intellij, A code with bugs"
+    description: "One of the most important part in progarmming is debugging, so make sure you learn this part well."
+    body: lesson_5
+
+  - title: "Lesson 6 : Github"
+    requirements: "Intellij, Github Account"
+    description: "Github introduction by Mohammadhossein Bahmani"
+    body: lesson_6
