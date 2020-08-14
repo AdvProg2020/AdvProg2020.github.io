@@ -52,14 +52,14 @@ lessons:
     description: "Review on Object Oriented programming, Know a bit about Inheritance by Hamed Khanaki"
     body: review_2
 
-  - title: "Lesson 4 : Inheritence, Polymorphism and Abstract"
+  - title: "Lesson 4 : Inheritance, Polymorphism and Abstract"
     requirements: "*****"
     description: "Data Structure, Class, Object Oriented Programming by Hamed Khanaki"
     body: lesson_4
 
   - title: "Lesson 5 : Debugging with Intellij Debugger"
     requirements: "Intellij, A code with bugs"
-    description: "One of the most important part in progarmming is debugging, so make sure you learn this part well."
+    description: "One of the most important part in programming is debugging, so make sure you learn this part well."
     body: lesson_5
 
   - title: "Lesson 6 : Github"
