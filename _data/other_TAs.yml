@@ -18,6 +18,13 @@
   roles:
     - Public Relations
   image:    alirezailami.jpg
+  social:
+    - name: github
+      link: https://github.com/sepehrilami
+    - name: linkedin
+      link: https://linkedin.com/in/alirezailami
+    - name: twitter
+      link: https://twitter.com/shepelll
 
 - name:     Hamila Mailee
   roles:
