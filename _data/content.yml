@@ -46,3 +46,33 @@ lessons:
     requirements: "Data Structures"
     description: "Start an Object Oriented program by Hamed Khanaki, <b>Exercise 2</b>"
     body: lesson_3
+
+  - title: "Review 2"
+    requirements: "Object Oriented Programming"
+    description: "Review on Object Oriented programming, Know a bit about Inheritance by Hamed Khanaki"
+    body: review_2
+
+  - title: "Lesson 4 : Inheritance, Polymorphism and Abstract"
+    requirements: "Object Oriented Programming, Class"
+    description: "Inheritance, Polymorphism and Abstract by Hamed Khanaki"
+    body: lesson_4
+
+  - title: "Lesson 5 : Debugging with Intellij Debugger"
+    requirements: "Intellij, A code with bugs"
+    description: "One of the most important part in programming is debugging, so make sure you learn this part well."
+    body: lesson_5
+
+  - title: "Lesson 6 : Github"
+    requirements: "Intellij, Github Account"
+    description: "Github introduction by Mohammadhossein Bahmani"
+    body: lesson_6
+
+  - title: "Lesson 7 : MVC design and creating menu for project"
+    requirements: "Object Oriented Programming"
+    description: "A tutorial on MVC by Hamed Khanaki"
+    body: lesson_7
+
+  - title: "PROJECT : Phase 0"
+    requirements: "MVC, UML design"
+    description: "Use what you have learned to create an online market, using UML, Trello and Github"
+    body: project_0
