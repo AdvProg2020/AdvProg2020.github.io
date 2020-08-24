@@ -103,20 +103,6 @@
 
 
 
-- name:     Amirhossein Abbasi
-  roles:     
-    - Public Relations
-  image:    AmirHosseinAbbasi.jpg
-  social:
-    - name: github
-      link: http://github.com/ahak14
-    - name: linkedin
-      link: https://www.linkedin.com/in/amirhosseinabbasi
-    - name: twitter
-      link: http://twitter.com/_AHAK_
-
-
-
 - name:     Parham Saremi
   roles:     
     - Assignments

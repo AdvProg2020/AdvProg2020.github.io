@@ -20,7 +20,6 @@
 
 
 
-
 - name:     Ahmad Salimi
   role:     Head of Project
   image:    ahmadsalimi.jpg
@@ -41,7 +40,13 @@
 
 
 
-
 - name:     Amirhossein Abbasi
   role:     Head of Public Relations
-  image:    default.jpg
+  image:    AmirHosseinAbbasi.jpg
+  social:
+    - name: github
+      link: http://github.com/ahak14
+    - name: linkedin
+      link: https://www.linkedin.com/in/amirhosseinabbasi
+    - name: twitter
+      link: http://twitter.com/_AHAK_
