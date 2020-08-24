@@ -5,9 +5,21 @@
     - name: github
       link: https://github.com/mhaghighat20
 
+
+
 - name:     Hamed Khanaki
   role:     Head of Workshops
-  image:    hamedkhanaki.jpg
+  image:    HamedKhanaki.jpg
+  social:
+    - name : github
+      link : https://github.com/HamedKh99
+    - name : Linkedin
+      link : https://www.linkedin.com/in/hamed-khanaki
+    - name: twitter
+      link: https://twitter.com/_hamedkhanaki
+
+
+
 
 - name:     Ahmad Salimi
   role:     Head of Project
@@ -20,9 +32,15 @@
     - name: twitter
       link: https://twitter.com/ChichekaMan
 
+
+
+
 - name:     Mohammad Hossein Gheisarieh
   role:     Head of Assignments
   image:    default.jpg
+
+
+
 
 - name:     Amirhossein Abbasi
   role:     Head of Public Relations
