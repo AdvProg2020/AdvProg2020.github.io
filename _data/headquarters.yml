@@ -21,10 +21,16 @@
 
 
 
-
-- name:     Mohammad Hossein Gheisarieh
-  role:     Head of Assignments
-  image:    default.jpg
+- name:     MohammadHossein Gheisarieh
+  roles:    Head of Assignments
+  image:    M.HGheisarieh.jpg
+  social:
+    - name: github
+      link: https://github.com/mhgheisarieh
+    - name: linkedin
+      link: https://www.linkedin.com/in/mohammad-hosein-gheisarieh-14a444144
+    - name: twitter
+      link: https://twitter.com/mhgheisarieh
 
 
 - name:     Hamed Khanaki
