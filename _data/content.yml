@@ -74,5 +74,51 @@ lessons:
 
   - title: "PROJECT : Phase 0"
     requirements: "MVC, UML design"
-    description: "Use what you have learned to create an online market, using UML, Trello and Github"
+    description: "Use what you have learned so far to create an online market, using UML, Trello and Github"
     body: project_0
+
+  - title: "PROJECT : Phase 1"
+    requirements: "JSON, Data Structures, Object Oriented Programming, MVC"
+    description: "Start your project, Apache Maven, Unit Test, Code Coverage by Ahmad Salimi"
+    body: project_1
+
+  - title: "Extra Exercise 2"
+    requirements: "Object Oriented Programming, Inheritance"
+    description: "A code to create a Supermarket with Java, using MVC design by Ali Shirmohammadi"
+    body: extra_exercise_2
+
+  - title: "Lesson 8 : Error Handling, Exceptions and Runtime Exceptions"
+    requirements: "Error Handling, Exceptions"
+    description: "All you need to know about Errors and Exceptions by Hamed Khanaki"
+    body: lesson_8
+  
+  - title: "Lesson 9 : Interface"
+    requirements: "Java Classes, Inheritance"
+    description: "Best sources to learn Interfaces from"
+    body: lesson_9
+
+  - title: "Lesson 10 : JavaFX and Graphic"
+    requirements: "JavaFX, Github, MVC, Generic <i>(needed for Exercise)</i>"
+    description: "Get started on animating your project, presented by Ali Shirmohammadi 
+    <p>An Exercise on Graphic and Generic to further your learning</p>"
+    body: lesson_10
+  
+  - title: "Lesson 11 : Thread on Java"
+    requirements: "Java Data Structures"
+    description: "An introduction to Thread by Hamed Khanaki"
+    body: lesson_11
+
+  - title: "PROJECT : Phase 2"
+    requirements: "JavaFX"
+    description: "Add Graphics to your project, Yaaay! ^__^"
+    body: project_2
+
+  - title: "Lesson 12 : Server and Socket Programming"
+    requirements: "Thread"
+    description: "Learn about Socket programming and Server, a presentation by Hamed Khanaki"
+    body: lesson_12
+
+  - title: "PROJECT : Phase 3"
+    requirements: "Everything you've learned"
+    description: "Handle a server based digital market and you're done. Good Job!"
+    body: project_3
