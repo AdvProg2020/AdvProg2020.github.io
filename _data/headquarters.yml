@@ -22,7 +22,7 @@
 
 
 - name:     MohammadHossein Gheisarieh
-  roles:    Head of Assignments
+  role:     Head of Assignments
   image:    M.HGheisarieh.jpg
   social:
     - name: github
