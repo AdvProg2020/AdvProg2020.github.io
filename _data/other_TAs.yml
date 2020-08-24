@@ -14,10 +14,17 @@
     - Project
   image:    default.jpg
 
-- name:     Sepehr Ilami
+- name:     Alireza Ilami
   roles:
     - Public Relations
-  image:    default.jpg
+  image:    alirezailami.jpg
+  social:
+    - name: github
+      link: https://github.com/sepehrilami
+    - name: linkedin
+      link: https://linkedin.com/in/alirezailami
+    - name: twitter
+      link: https://twitter.com/shepelll
 
 - name:     Hamila Mailee
   roles:
