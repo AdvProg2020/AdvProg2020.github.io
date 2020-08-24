@@ -7,18 +7,6 @@
 
 
 
-- name:     Hamed Khanaki
-  role:     Head of Workshops
-  image:    HamedKhanaki.jpg
-  social:
-    - name : github
-      link : https://github.com/HamedKh99
-    - name : Linkedin
-      link : https://www.linkedin.com/in/hamed-khanaki
-    - name: twitter
-      link: https://twitter.com/_hamedkhanaki
-
-
 
 - name:     Ahmad Salimi
   role:     Head of Project
@@ -38,6 +26,17 @@
   role:     Head of Assignments
   image:    default.jpg
 
+
+- name:     Hamed Khanaki
+  role:     Head of Workshops
+  image:    HamedKhanaki.jpg
+  social:
+    - name : github
+      link : https://github.com/HamedKh99
+    - name : Linkedin
+      link : https://www.linkedin.com/in/hamed-khanaki
+    - name: twitter
+      link: https://twitter.com/_hamedkhanaki
 
 
 - name:     Amirhossein Abbasi
