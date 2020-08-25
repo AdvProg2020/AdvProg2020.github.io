@@ -14,8 +14,14 @@
   roles:
     - Public Relations
     - Project
-  image:    default.jpg
-
+  image:    hadiesna.jpg
+  social:
+    - name: github
+      link: https://github.com/HadiEsna
+    - name: linkedin
+      link: https://www.linkedin.com/in/hadiesnaashari/
+    - name: twitter
+      link: https://twitter.com/hadiesna
 
 
 
