@@ -52,7 +52,15 @@
 - name:     Ali Shirmohammadi
   roles:
     - Workshop
-  image:    default.jpg
+    - Assignments
+  image:    alishirmohammadi.jpg
+  social:
+    - name: github
+      link: https://github.com/alishirmohammadi
+    - name: linkedin
+      link: https://www.linkedin.com/in/ali-shirmohammadi-b77625178/
+    - name: twitter
+      link: https://twitter.com/alishmdi
 
 
 
