@@ -24,7 +24,7 @@
     --success: #5cb377;
     --info: #5b99ea;
     --warning: #EEBF41;
-    --danger: #d26d69;
+    --danger: rgb(210, 109, 105);
     --light: #fff;
     --dark: #6e7d9c;
     --breakpoint-xs: 0;
@@ -9861,4 +9861,9 @@ body {
 .exercise {
     font-size: inherit;
     color: #fd7e14e3;
+}
+
+.zip-code {
+    font-size: inherit;
+    color: #f77171;
 }
