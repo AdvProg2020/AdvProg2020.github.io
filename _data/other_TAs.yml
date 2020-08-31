@@ -25,6 +25,19 @@
 
 
 
+- name:     Hamila Mailee
+  roles:
+    - Project
+    - Public Relations
+  image:    hamilamailee.jpeg
+    social:
+    - name: github
+      link: https://github.com/hamilamailee
+    - name: linkedin
+      link: https://www.linkedin.com/in/hamila-mailee-834b07195
+
+
+
 - name:     Alireza Ilami
   roles:
     - Public Relations
@@ -36,20 +49,6 @@
       link: https://linkedin.com/in/alirezailami
     - name: twitter
       link: https://twitter.com/shepelll
-
-
-
-
-- name:     Hamila Mailee
-  roles:
-    - Project
-    - Public Relations
-  image:    hamilamailee.jpeg
-    social:
-    - name: github
-      link: https://github.com/hamilamailee
-    - name: linkedin
-      link: https://www.linkedin.com/in/hamila-mailee-834b07195
 
 
 
