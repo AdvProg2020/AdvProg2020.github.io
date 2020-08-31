@@ -9371,7 +9371,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .module-accordion .module-intro {
-    font-size: 1rem
+    color: #6e7d9c;
+    font-size: 1rem;
 }
 
 .module-accordion .module-sub-item {
@@ -9835,5 +9836,9 @@ body {
 
 .lesson-description {
     font-family: 'Raleway', sans-serif;
-    color: #BABAB9;
+    color: #4abf9d;
+}
+
+.reference-link {
+    color: #7ec1d6;
 }
