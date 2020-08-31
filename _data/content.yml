@@ -74,12 +74,12 @@ lessons:
     description: "A tutorial on MVC by Hamed Khanaki"
     body: lesson_7
 
-  - title: "PROJECT : Phase 0"
+  - title: "Project : Phase 0"
     requirements: "MVC, UML design"
     description: "Use what you have learned so far to create an online market, using UML, Trello and Github"
     body: project_0
 
-  - title: "PROJECT : Phase 1"
+  - title: "Project : Phase 1"
     requirements: "JSON, Data Structures, Object Oriented Programming, MVC"
     description: "Start your project, Apache Maven, Unit Test, Code Coverage by Ahmad Salimi"
     body: project_1
@@ -110,7 +110,7 @@ lessons:
     description: "An introduction to Thread by Hamed Khanaki"
     body: lesson_11
 
-  - title: "PROJECT : Phase 2"
+  - title: "Project : Phase 2"
     requirements: "JavaFX"
     description: "Add Graphics to your project, Yaaay! ^__^"
     body: project_2
@@ -120,7 +120,7 @@ lessons:
     description: "Learn about Socket programming and Server, a presentation by Hamed Khanaki"
     body: lesson_12
 
-  - title: "PROJECT : Phase 3"
+  - title: "Project : Phase 3"
     requirements: "Everything you've learned"
     description: "Handle a server based digital market and you're done. Good Job!"
     body: project_3

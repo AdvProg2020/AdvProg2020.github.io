@@ -9835,7 +9835,7 @@ body {
 }
 
 .lesson-description {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif !important;
     color: #4abf9d;
     font-size: 16px;
 }
