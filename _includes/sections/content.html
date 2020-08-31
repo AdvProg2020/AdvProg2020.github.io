@@ -34,14 +34,13 @@
                     aria-labelledby="module-heading-{{ forloop.index }}" data-parent="#module-accordion">
                     <div class="card-body p-0">
                         <div>
-                            <p class="module-intro p-3">
-                                <b>
-                                    Requirements : {{ lesson.requirements }}
-                                </b>
-                                <a class="lesson-description">
-                                    {{ lesson.description }}
-                                </a>
-                            </p>
+                            <b class="module-intro p-3">
+                                Requirements : {{ lesson.requirements }}
+                            </b>
+                            <P></P>
+                            <a class="lesson-description">
+                                {{ lesson.description }}
+                            </a>
                         </div>
                         {% include sections/lessons/{{lesson.body}}.html %}
                     </div>
