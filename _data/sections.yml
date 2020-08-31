@@ -10,16 +10,8 @@
   section:  education
   navbar:   true
 
-- title:    Tutor
-  section:  tutor
-  navbar:   true
-
 - title:    Reviews
   section:  reviews
-  navbar:   true
-
-- title:    Pricing
-  section:  pricing
   navbar:   true
 
 - title:    FAQ
