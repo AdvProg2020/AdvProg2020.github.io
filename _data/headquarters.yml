@@ -1,16 +1,13 @@
-- name:     Mohammad Haghighat
-  role:     Head TA
-  image:    mohammadhaghighat.jpg
+- name: Mohammad Haghighat
+  role: Head TA
+  image: mohammadhaghighat.jpg
   social:
     - name: github
       link: https://github.com/mhaghighat20
 
-
-
-
-- name:     Ahmad Salimi
-  role:     Head of Project
-  image:    ahmadsalimi.jpg
+- name: Ahmad Salimi
+  role: Head of Project
+  image: ahmadsalimi.jpg
   social:
     - name: github
       link: https://github.com/ahmadsalimi
@@ -19,11 +16,9 @@
     - name: twitter
       link: https://twitter.com/ChichekaMan
 
-
-
-- name:     MohammadHossein Gheisarieh
-  role:     Head of Assignments
-  image:    M.HGheisarieh.jpg
+- name: MohammadHossein Gheisarieh
+  role: Head of Assignments
+  image: M.HGheisarieh.jpg
   social:
     - name: github
       link: https://github.com/mhgheisarieh
@@ -32,22 +27,20 @@
     - name: twitter
       link: https://twitter.com/mhgheisarieh
 
-
-- name:     Hamed Khanaki
-  role:     Head of Workshops
-  image:    HamedKhanaki.jpg
+- name: Hamed Khanaki
+  role: Head of Workshops
+  image: HamedKhanaki.jpg
   social:
-    - name : github
-      link : https://github.com/HamedKh99
-    - name : linkedin
-      link : https://www.linkedin.com/in/hamed-khanaki
+    - name: github
+      link: https://github.com/HamedKh99
+    - name: linkedin
+      link: https://www.linkedin.com/in/hamed-khanaki
     - name: twitter
       link: https://twitter.com/_hamedkhanaki
 
-
-- name:     Amirhossein Abbasi
-  role:     Head of HR
-  image:    AmirHosseinAbbasi.jpg
+- name: Amirhossein Abbasi
+  role: Head of HR
+  image: AmirHosseinAbbasi.jpg
   social:
     - name: github
       link: http://github.com/ahak14

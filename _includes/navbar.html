@@ -9,11 +9,13 @@
                     </a>
                 </li>
                 {% for item in site.data.sections %}
-                    {% if item.navbar %}
-                        <li class="nav-item"><a class="nav-link scrollto" href="#section-{{ item.section }}">{{ item.title }}</a></li>
-                    {% endif %}
+                {% if item.navbar %}
+                <li class="nav-item"><a class="nav-link scrollto"
+                        href="#section-{{ item.section }}">{{ item.title }}</a></li>
+                {% endif %}
                 {% endfor %}
-                {%- comment -%} <li class="nav-item d-none"><a class="nav-link" href="#section-more">More</a></li> {%- endcomment -%}
+                {%- comment -%} <li class="nav-item d-none"><a class="nav-link" href="#section-more">More</a></li>
+                {%- endcomment -%}
             </ul>
             <!--//page-nav-->
         </div>

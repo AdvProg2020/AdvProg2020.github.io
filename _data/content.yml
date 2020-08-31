@@ -1,16 +1,18 @@
 title:  What's Included
 includes:
-  - meta: Lessons
+  - meta: Hours
     data: 20
 
-  - meta: Videos
-    data: 80+
+  - meta: Exercises
+    data: 6
 
-  - meta: Resources
-    data: 40+
+  - meta: TAs
+    data: 45
 
-  - meta: Hours
-    data: 72
+  - meta: Students
+    data: 170+
+
+ 
 
 subtitle: Course Content
 
@@ -122,3 +124,5 @@ lessons:
     requirements: "Everything you've learned"
     description: "Handle a server based digital market and you're done. Good Job!"
     body: project_3
+
+

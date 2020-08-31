@@ -1,22 +1,21 @@
-- title:    Overview
-  section:  overview
-  navbar:   true
+- title: Overview
+  section: overview
+  navbar: true
 
-- title:    Content
-  section:  content
-  navbar:   true
+- title: Content
+  section: content
+  navbar: true
 
-- title:    Education Team
-  section:  education
-  navbar:   true
+- title: Education Team
+  section: education
+  navbar: true
 
-- title:    Reviews
-  section:  reviews
-  navbar:   true
+- title: Reviews
+  section: reviews
+  navbar: true
 
-- title:    FAQ
-  section:  faq
-  navbar:   true
+- title: FAQ
+  section: faq
+  navbar: true
 
 - section: contact
-
