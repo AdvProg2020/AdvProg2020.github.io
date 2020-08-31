@@ -43,6 +43,7 @@
 - name:     Hamila Mailee
   roles:
     - Project
+<<<<<<< HEAD
     - Public Relations
   image:    hamilamailee.jpeg
     social:
@@ -51,6 +52,10 @@
     - name: linkedin
       link: https://www.linkedin.com/in/hamila-mailee-834b07195
 
+=======
+    - HR
+  image:    default.jpg
+>>>>>>> d1228b8d19df51a37567e00dbc54dc9cc45314ab
 
 
 
@@ -73,7 +78,7 @@
 
 - name:     Mohammad Hosein Bahmani
   roles:     
-    - Public Relations
+    - HR
     - Workshop
   image:    mohammadhoseinbahmani.jpg
   social:
