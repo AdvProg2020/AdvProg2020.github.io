@@ -89,7 +89,7 @@ lessons:
 
   - title: "Lesson 8 : Error Handling, Exceptions and Runtime Exceptions"
     requirements: "Error Handling, Exceptions"
-    description: "All you need to know about Errors and Exceptions by Hamed Khanaki"
+    description: "All you need to know about Errors and Exceptions by Ali Shirmohammadi"
     body: lesson_8
   
   - title: "Lesson 9 : Interface"
