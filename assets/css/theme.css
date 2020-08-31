@@ -9837,8 +9837,14 @@ body {
 .lesson-description {
     font-family: 'Raleway', sans-serif;
     color: #4abf9d;
+    font-size: 16px;
 }
 
 .reference-link {
     color: #7ec1d6;
+}
+
+.extra-class {
+    font-size: inherit;
+    color: #9999ff;
 }
