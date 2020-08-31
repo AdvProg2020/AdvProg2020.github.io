@@ -43,7 +43,6 @@
 - name:     Hamila Mailee
   roles:
     - Project
-<<<<<<< HEAD
     - Public Relations
   image:    hamilamailee.jpeg
     social:
@@ -51,11 +50,6 @@
       link: https://github.com/hamilamailee
     - name: linkedin
       link: https://www.linkedin.com/in/hamila-mailee-834b07195
-
-=======
-    - HR
-  image:    default.jpg
->>>>>>> d1228b8d19df51a37567e00dbc54dc9cc45314ab
 
 
 
