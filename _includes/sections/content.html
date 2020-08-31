@@ -33,16 +33,16 @@
                     class="module-content collapse {% if forloop.index == 1 %} show{% endif %}"
                     aria-labelledby="module-heading-{{ forloop.index }}" data-parent="#module-accordion">
                     <div class="card-body p-0">
-                        <div class="module-intro p-3">
-                            <p>
+                        <div>
+                            <p class="module-intro p-3">
                                 <b>
                                     Requirements : {{ lesson.requirements }}
                                 </b>
                             </p>
-                            <p>
+                            <p class="lesson-description">
                                 <b>
                                     <b>
-                                        <a class="lesson-description">
+                                        <a>
                                             {{ lesson.description }} check
                                         </a>
                                     </b>
