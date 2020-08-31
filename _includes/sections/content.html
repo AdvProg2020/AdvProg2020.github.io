@@ -38,10 +38,10 @@
                                 <b>
                                     Requirements : {{ lesson.requirements }}
                                 </b>
+                                <a class="lesson-description">
+                                    {{ lesson.description }}
+                                </a>
                             </p>
-                            <a class="lesson-description">
-                                {{ lesson.description }}
-                            </a>
                         </div>
                         {% include sections/lessons/{{lesson.body}}.html %}
                     </div>
