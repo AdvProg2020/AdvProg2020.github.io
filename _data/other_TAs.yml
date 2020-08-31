@@ -44,7 +44,13 @@
   roles:
     - Project
     - Public Relations
-  image:    default.jpg
+  image:    hamilamailee.jpeg
+    social:
+    - name: github
+      link: https://github.com/hamilamailee
+    - name: linkedin
+      link: https://www.linkedin.com/in/hamila-mailee-834b07195
+
 
 
 
@@ -97,7 +103,7 @@
 - name:     Seyed Mahdi Sadegh Shobeiri
   roles:     
     - Project
-  image:    default.jpg
+  image:    mahdiShobeiri.jpeg
 
 
 
@@ -217,7 +223,7 @@
   roles:     
     - Assignments
     - Project
-  image:    default.jpg
+  image:    MohammadmehdiJarrahi.jpg
 
 
 
@@ -275,3 +281,17 @@
       link: https://www.linkedin.com/in/seyyed-alireza-hashemi-3611481a2
     - name: twitter
       link: https://twitter.com/amoo_hashem
+
+
+
+- name:     Negin Jafari
+  roles:     
+    - Assignments
+  image:    neginjafari.JPG
+  social:
+    - name: github
+      link: https://github.com/neginjafariii
+    - name: linkedin
+      link: https://www.linkedin.com/in/negin-jafari-967a7b18a
+    - name: twitter
+      link: https://twitter.com/neginjfi79
