@@ -14,8 +14,8 @@
   section: reviews
   navbar: true
 
-- title: FAQ
-  section: faq
-  navbar: true
+# - title: FAQ
+#   section: faq
+#   navbar: true
 
 - section: contact
