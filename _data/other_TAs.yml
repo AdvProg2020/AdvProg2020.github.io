@@ -23,8 +23,8 @@
 
 - name: Hamila Mailee
   roles:
-    - Project
     - Public Relations
+    - Project
   image: hamilamailee.jpeg
   social:
     - name: github
