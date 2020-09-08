@@ -10,6 +10,10 @@
   section: education
   navbar: true
 
+- title: Best Projects
+  section: projects
+  navbar: true
+
 - title: Reviews
   section: reviews
   navbar: true

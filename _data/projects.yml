@@ -1,0 +1,47 @@
+- semester: Spring 2020
+  title: Shop Application
+  projects:
+    - team: Team X
+      links:
+        - title: Github Repository
+          url: #
+        - title: Video on Aparat
+          url: #
+    - team: Team X
+      links:
+        - title: Github Repository
+          url: #
+        - title: Video on Aparat
+          url: #
+
+- semester: Spring 2019
+  title: Duelyst
+  projects:
+    - team: Team X
+      links:
+        - title: Github Repository
+          url: #
+        - title: Video on Aparat
+          url: #
+    - team: Team X
+      links:
+        - title: Github Repository
+          url: #
+        - title: Video on Aparat
+          url: #
+
+- semester: Spring 2018
+  title: Clash of Clans
+  projects:
+    - team: Team X
+      links:
+        - title: Github Repository
+          url: #
+        - title: Video on Aparat
+          url: #
+    - team: Team X
+      links:
+        - title: Github Repository
+          url: #
+        - title: Video on Aparat
+          url: #
