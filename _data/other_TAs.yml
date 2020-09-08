@@ -1,7 +1,7 @@
 - name: Saber Zafarpour
   roles:
     - Project
-  image: saberzafarpour.jpg
+  image: saberzafarpour.png
   social:
     - name: github
       link: https://github.com/SaberDoTcodeR
@@ -12,7 +12,7 @@
   roles:
     - Public Relations
     - Project
-  image: hadiesna.jpg
+  image: hadiesna.png
   social:
     - name: github
       link: https://github.com/HadiEsna
@@ -25,7 +25,7 @@
   roles:
     - Public Relations
     - Project
-  image: hamilamailee.jpeg
+  image: hamilamailee.png
   social:
     - name: github
       link: https://github.com/hamilamailee
@@ -35,7 +35,7 @@
 - name: Alireza Ilami
   roles:
     - Public Relations
-  image: alirezailami.jpg
+  image: alirezailami.png
   social:
     - name: github
       link: https://github.com/sepehrilami
@@ -48,7 +48,7 @@
   roles:
     - Workshop
     - Assignments
-  image: alishirmohammadi.jpg
+  image: alishirmohammadi.png
   social:
     - name: github
       link: https://github.com/alishirmohammadi
@@ -61,7 +61,7 @@
   roles:
     - Public Relations
     - Workshop
-  image: mohammadhoseinbahmani.jpg
+  image: mohammadhoseinbahmani.png
   social:
     - name: github
       link: https://github.com/mhbahmani
@@ -74,7 +74,7 @@
   roles:
     - Assignments
     - Project
-  image: PooyaMoini.jpeg
+  image: PooyaMoini.png
   social:
     - name: github
       link: https://github.com/pooyamoini
@@ -86,12 +86,12 @@
 - name: Seyed Mahdi Sadegh Shobeiri
   roles:
     - Project
-  image: mahdiShobeiri.jpeg
+  image: mahdiShobeiri.png
 
 - name: Parham Saremi
   roles:
     - Assignments
-  image: ParhamSaremi.jpg
+  image: ParhamSaremi.png
   social:
     - name: github
       link: http://github.com/parhamsaremi
@@ -104,7 +104,7 @@
   roles:
     - Assignments
     - Project
-  image: MohsenDehghankar.jpg
+  image: MohsenDehghankar.png
   social:
     - name: github
       link: http://github.com/MohsenDehghankar
@@ -115,7 +115,7 @@
   roles:
     - Assignments
     - Project
-  image: AlirezaTajmirriahi.jpg
+  image: AlirezaTajmirriahi.png
   social:
     - name: github
       link: https://github.com/AlirezaT99
@@ -128,7 +128,7 @@
   roles:
     - Assignments
     - Project
-  image: SMahdiF.jpg
+  image: SMahdiF.png
   social:
     - name: github
       link: https://github.com/SMahdiFaghih
@@ -140,7 +140,7 @@
 - name: Mohammad Mohammadi
   roles:
     - Project
-  image: MohammadMohammadi.jpg
+  image: MohammadMohammadi.png
   social:
     - name: github
       link: https://github.com/MhdMohammadi
@@ -152,7 +152,7 @@
 - name: Bahar Khodabakhshian
   roles:
     - Assignments
-  image: BaharKhodabakhshian.jpeg
+  image: BaharKhodabakhshian.png
   social:
     - name: github
       link: https://github.com/baharkhd
@@ -174,7 +174,7 @@
   roles:
     - Assignments
     - Project
-  image: alirezashateri.jpg
+  image: alirezashateri.png
   social:
     - name: github
       link: https://github.com/ShAlireza
@@ -185,12 +185,12 @@
   roles:
     - Assignments
     - Project
-  image: MohammadmehdiJarrahi.jpg
+  image: MohammadmehdiJarrahi.png
 
 - name: Arshia Akhavan
   roles:
     - Project
-  image: ArshiaAkhavan.jpg
+  image: ArshiaAkhavan.png
   social:
     - name: github
       link: https://github.com/ArshiAAkhavan
@@ -200,7 +200,7 @@
 - name: Fateme Khashei
   roles:
     - Project
-  image: fatemekh.JPG
+  image: fatemekh.png
   social:
     - name: github
       link: https://github.com/fatteme
@@ -212,7 +212,7 @@
 - name: Sajjad Reyhani
   roles:
     - Project
-  image: SajjadReyhani.jpg
+  image: SajjadReyhani.png
   social:
     - name: github
       link: https://github.com/sreyhani
@@ -224,7 +224,7 @@
 - name: Seyyed Alireza Hashemi
   roles:
     - Assignments
-  image: SeyyedAlirezaHashemi.jpeg
+  image: SeyyedAlirezaHashemi.png
   social:
     - name: github
       link: https://github.com/AmooHashem
@@ -236,7 +236,7 @@
 - name: Negin Jafari
   roles:
     - Assignments
-  image: neginjafari.JPG
+  image: neginjafari.png
   social:
     - name: github
       link: https://github.com/neginjafariii
