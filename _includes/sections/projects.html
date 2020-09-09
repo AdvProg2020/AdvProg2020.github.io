@@ -11,15 +11,18 @@
                     <span class="year">{{ item.semester }}</span>
                     <div class="timeline-content">
                         <h5 class="title">{{ item.title }}</h5>
-                        <p class="description">
+                        <div class="description">
                             {% for project in item.projects %}
-                            {{ project.team }}
-                            {% for link in project.links %}
-                            | <a href="{{ link.url }}">{{ link.title }}</a>
+                            <div class="list-group-item mx-3">
+                                <p class="float-left">
+                                    {{ project.team }}
+                                </p>
+                                {% for link in project.links %}
+                                <a href="{{ link.url }}"><span class="badge badge-pill badge-success">{{ link.title }}</span></a>
+                                {% endfor %}
+                            </div>
                             {% endfor %}
-                            <br>
-                            {% endfor %}
-                        </p>
+                        </div>
                     </div>
                 </div>
                 {% endfor %}

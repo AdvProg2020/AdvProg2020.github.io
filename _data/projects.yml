@@ -4,15 +4,17 @@
   projects:
     - team: Team X
       links:
-        - title: Github Repository
+        - title: Repository
           url: #
-        - title: Video on Aparat
+        - title: Aparat
           url: #
     - team: Team X
       links:
-        - title: Github Repository
+        - title: Repository
           url: #
-        - title: Video on Aparat
+        - title: Aparat
+          url: #
+        - title: Youtube
           url: #
 
 - semester: Spring 2019
@@ -21,15 +23,15 @@
   projects:
     - team: Team X
       links:
-        - title: Github Repository
+        - title: Repository
           url: #
-        - title: Video on Aparat
+        - title: Aparat
           url: #
     - team: Team X
       links:
-        - title: Github Repository
+        - title: Repository
           url: #
-        - title: Video on Aparat
+        - title: Aparat
           url: #
 
 - semester: Spring 2018
@@ -38,13 +40,13 @@
   projects:
     - team: Team X
       links:
-        - title: Github Repository
+        - title: Repository
           url: #
-        - title: Video on Aparat
+        - title: Aparat
           url: #
     - team: Team X
       links:
-        - title: Github Repository
+        - title: Repository
           url: #
-        - title: Video on Aparat
+        - title: Aparat
           url: #

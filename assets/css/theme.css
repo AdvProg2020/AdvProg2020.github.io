@@ -9890,7 +9890,7 @@ body {
 .main-timeline7 .timeline-content:after{left:auto;right:-95px}
 .main-timeline7 .timeline:last-child .timeline-content:after,.main-timeline7 .timeline:last-child .timeline-content:before{width:0;height:0}
 .main-timeline7 .title{font-size:22px;font-weight:700;color:#727cb6;margin-top:0}
-.main-timeline7 .description{font-size:15px;color:#7f8386;line-height:25px}
+.main-timeline7 .description{font-size:15px;color:#7f8386;text-align: right}
 .main-timeline7 .timeline:nth-child(2){margin-top:140px}
 .main-timeline7 .timeline:nth-child(even){margin-bottom:80px}
 .main-timeline7 .timeline:nth-child(odd){margin:-140px 0 0}
@@ -9901,7 +9901,7 @@ body {
 .main-timeline7 .timeline:nth-child(2n) .year:before{left:auto;right:3px}
 .main-timeline7 .timeline:nth-child(2n) .year:after{border-left:none;border-right:10px solid #303a3b;right:50px}
 .main-timeline7 .timeline:nth-child(2n) .timeline-content{padding:18px 40px 18px 60px;text-align:left}
-.main-timeline7 .timeline:nth-child(2n) .timeline-content:before{left:-95px}
+.main-timeline7 .timeline:nth-child(2n) .timeline-content:before{left:-95px;}
 .main-timeline7 .timeline:nth-child(2n) .timeline-content:after{left:15px}
 .main-timeline7 .timeline:nth-child(2n) .timeline-icon:before{border-color:#e77e21;box-shadow:0 0 0 4px #f1a563}
 .main-timeline7 .timeline:nth-child(2n) .year:before{background:#e77e21;box-shadow:0 0 0 4px #e77e21}
