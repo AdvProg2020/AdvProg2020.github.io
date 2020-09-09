@@ -1,5 +1,6 @@
 - semester: Spring 2020
   title: Shop Application
+  icon: shopping-cart
   projects:
     - team: Team X
       links:
@@ -16,6 +17,7 @@
 
 - semester: Spring 2019
   title: Duelyst
+  icon: chess-queen
   projects:
     - team: Team X
       links:
@@ -32,6 +34,7 @@
 
 - semester: Spring 2018
   title: Clash of Clans
+  icon: shield-alt
   projects:
     - team: Team X
       links:

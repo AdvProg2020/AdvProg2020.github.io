@@ -9880,8 +9880,8 @@ body {
 .main-timeline7 .timeline:before{content:"";width:40px;height:90%;background:#727cb6;position:absolute;top:10%;right:-20px}
 .main-timeline7 .timeline:last-child:before{height:0}
 .main-timeline7 .timeline-icon{width:80px;height:80px;border-radius:50%;background:#727cb6;overflow:hidden;text-align:center;position:absolute;top:0;right:-40px;z-index:3}
-.main-timeline7 .timeline-icon:before{content:"";width:60px;height:60px;border-radius:50%;background:#fff;border:2px solid #727cb6;box-shadow:0 0 0 4px #a5afe4;margin:auto;position:absolute;top:0;left:0;bottom:0;right:0}
-.main-timeline7 .timeline-icon i{font-size:35px;color:#303a3b;line-height:80px;z-index:1;position:relative}
+.main-timeline7 .timeline-icon:before{content:"";width:60px;height:60px;border-radius:50%;background:rgb(255, 255, 255);border:2px solid #727cb6;box-shadow:0 0 0 4px #a5afe4;margin:auto;position:absolute;top:0;left:0;bottom:0;right:0}
+.main-timeline7 .timeline-icon .t-icon{font-size:35px;color:#303a3b;line-height:80px;z-index:1;position:relative;height: inherit;}
 .main-timeline7 .year{display:block;padding:0 60px 0 30px;font-size:30px;color:#303a3b;text-align:right;border-bottom:2px solid #303a3b;z-index:2;position:relative}
 .main-timeline7 .year:before{content:"";display:block;width:30px;height:30px;border-radius:50%;background:#727cb6;border:5px solid #fff;box-shadow:0 0 0 4px #727cb6;margin:auto;position:absolute;bottom:-15px;left:4px}
 .main-timeline7 .year:after{content:"";border-left:10px solid #303a3b;border-top:10px solid transparent;border-bottom:10px solid transparent;position:absolute;bottom:-11px;left:50px}
