@@ -2,51 +2,166 @@
   title: Shop Application
   icon: shopping-cart
   projects:
-    - team: Team X
+    - team: Team 10
       links:
         - title: Repository
-          url: #
+          url: https://github.com/AdvProg2020/Project_team-10
         - title: Aparat
-          url: #
-    - team: Team X
+          url: https://www.aparat.com/v/H2NrO
+    - team: Team 20
       links:
         - title: Repository
-          url: #
+          url: https://github.com/AdvProg2020/Project_team-20
         - title: Aparat
-          url: #
+          url: https://www.aparat.com/v/bj8gx
+    - team: Team 34
+      links:
+        - title: Repository
+          url: https://github.com/AdvProg2020/Project_team-34
+        - title: Aparat
+          url: https://www.aparat.com/v/A5sWo
         - title: Youtube
-          url: #
+          url: https://www.youtube.com/watch?v=JP1-S5qZk4E
+    - team: Team 24
+      links:
+        - title: Repository
+          url: https://github.com/AdvProg2020/Project_team-24
+        - title: Aparat
+          url: https://www.aparat.com/v/YZKaH
+    - team: Team 40
+      links:
+        - title: Repository
+          url: https://github.com/AdvProg2020/Project_team-40
+        - title: Aparat
+          url: https://aparat.com/v/Di63q
+    - team: Team 3
+      links:
+        - title: Repository
+          url: https://github.com/AdvProg2020/Project_team-3
+        - title: Aparat
+          url: https://www.aparat.com/v/snRCU
+    - team: Team 5
+      links:
+        - title: Repository
+          url: https://github.com/AdvProg2020/Project_team-5
+        - title: Aparat
+          url: https://www.aparat.com/v/BiYkt
+    - team: Team 51
+      links:
+        - title: Repository
+          url: https://github.com/AdvProg2020/Project_team-51
+        - title: Aparat
+          url: https://www.aparat.com/v/KsR7m
 
 - semester: Spring 2019
   title: Duelyst
-  icon: chess-queen
+  icon: jedi
   projects:
-    - team: Team X
+    - team: Team 7
       links:
         - title: Repository
-          url: #
+          url: https://github.com/aps2019project/Duelers
         - title: Aparat
-          url: #
-    - team: Team X
+          url: https://www.aparat.com/v/OJTf1
+        - title: YouTube
+          url: https://youtu.be/s0aTC6NB-yg
+    - team: Team 14
       links:
         - title: Repository
-          url: #
+          url: https://github.com/aps2019project/project-14
         - title: Aparat
-          url: #
+          url: https://www.aparat.com/v/EIphc
+    - team: Team 47
+      links:
+        - title: Repository
+          url: https://github.com/aps2019project/project-47
+        - title: Aparat
+          url: https://www.aparat.com/v/zHWxt
+    - team: Team 16
+      links:
+        - title: Repository
+          url: https://github.com/aps2019project/project-16
+        - title: Aparat
+          url: https://www.aparat.com/v/EnHhf
+    - team: Team 5
+      links:
+        - title: Repository
+          url: https://github.com/aps2019project/project-5
+        - title: Aparat
+          url: https://www.aparat.com/v/yKeV3
+    - team: Team 1
+      links:
+        - title: Repository
+          url: https://github.com/aps2019project/project-1
+        - title: Aparat
+          url: https://www.aparat.com/v/CLjky
+    - team: Team 13
+      links:
+        - title: Repository
+          url: https://github.com/aps2019project/project-13
+        - title: Aparat
+          url: https://www.aparat.com/v/SRyDE
+    - team: Team 9
+      links:
+        - title: Repository
+          url: https://github.com/aps2019project/project-9
+        - title: Aparat
+          url: http://aparat.com/v/E4ab1
+
+- semester: Fall 2018
+  title: Farm Frenzy
+  icon: piggy-bank
+  projects:
+    - team: Team 5
+      links:
+        - title: Namasha
+          url: https://www.namasha.com/v/ab2QCCad
+    - team: Team 1
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/RKrqx
+    - team: Team 10
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/IDido
+    - team: Team 7
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/QeWbG
+    - team: Team 11
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/59HVU
+    - team: Team 17
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/2N10Y
 
 - semester: Spring 2018
   title: Clash of Clans
   icon: shield-alt
   projects:
-    - team: Team X
+    - team: Team 3
       links:
-        - title: Repository
-          url: #
         - title: Aparat
-          url: #
-    - team: Team X
+          url: https://www.aparat.com/v/x7hQD
+    - team: Team 1
       links:
-        - title: Repository
-          url: #
         - title: Aparat
-          url: #
+          url: https://www.aparat.com/v/h3DgF
+    - team: Team 6
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/KtZps
+    - team: Team 7
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/QeWbG
+    - team: Team 12
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/pfniQ
+    - team: Team 15
+      links:
+        - title: Aparat
+          url: https://www.aparat.com/v/26MgQ
